@@ -8,6 +8,8 @@ import org.junit.jupiter.api.Test;
 
 class AlgoritmTests {
 	int[] arrayInt = { 3, 5, 7, 1, 9, 2, 4, 6, 0, 8 };
+	int[] arrayInt2 = { 3, 5, 7, 1, 9, 2, 4, 6, 0, 8 };
+
 	int[] sortedArray = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 };
 	Array array = new Array();
 
